@@ -1,0 +1,14 @@
+# Mac OS generated files
+.DS_Store
+.DS_Store?
+
+# files to exclude
+*.pyc
+*.swp
+
+# directories to exclude
+input/
+output/
+.ipynb_checkpoints/
+core
+
